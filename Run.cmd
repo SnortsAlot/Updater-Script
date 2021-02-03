@@ -1,0 +1,1 @@
+bash -c "source config.sh; cd $directory; ./Choose.sh"
