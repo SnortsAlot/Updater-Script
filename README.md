@@ -54,8 +54,8 @@ Create a shortcut for `Run.cmd` on Desktop, rename it and change it's icon.
 
 ## License
 
-This is under the Apache 2.0 license.
+This is under the [Apache 2.0 license](LICENSE).
 
 ## Semantic Versioning
 
-This software uses Semantic Versioning.
+This software uses [Semantic Versioning](https://semver.org/).
