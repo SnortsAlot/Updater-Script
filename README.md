@@ -28,7 +28,7 @@ Create a shortcut for `Run.cmd` on Desktop, rename it and change it's icon.
 
 3. You should see a shortcut on your Desktop.
 
-![Desktop Shortcut Example](https://i.imgur.com/uWptNtY.png)
+![Desktop Shortcut Example](https://i.imgur.com/ppxhB1X.png)
 
 4. Rename it to `5eTools` by right-clicking on it and clicking Rename.
 
